@@ -1,0 +1,8 @@
+[08-Mar-2017 10:32:33 Europe/London] PHP Parse error:  syntax error, unexpected '{' in /home/prontocreative/public_html/crm/application/views/admin/leads/leads_details.php on line 489
+[16-May-2017 16:01:13 Asia/Dhaka] PHP Fatal error:  Function name must be a string in /home/divinh66/public_html/cms.net/application/core/MY_Model.php on line 239
+[16-May-2017 16:01:20 Asia/Dhaka] PHP Fatal error:  Function name must be a string in /home/divinh66/public_html/cms.net/application/core/MY_Model.php on line 239
+[16-May-2017 16:01:21 Asia/Dhaka] PHP Fatal error:  Function name must be a string in /home/divinh66/public_html/cms.net/application/core/MY_Model.php on line 239
+[16-May-2017 10:41:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/divinh66/public_html/cms.net/application/core/MY_Model.php on line 241
+[16-May-2017 17:05:33 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE), expecting ',' or ';' in /home/divinh66/public_html/cms.net/application/views/admin/components/sidebar.php on line 86
+[16-May-2017 11:09:27 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/divinh66/public_html/cms.net/application/controllers/admin/Projects.php on line 31
+[17-May-2017 13:22:20 Asia/Dhaka] PHP Fatal error:  Call to a member function print_debugger() on a non-object in /home/divinh66/public_html/cms.net/application/controllers/client/Mailbox.php on line 298
